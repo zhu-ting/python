@@ -15,4 +15,6 @@ class Settings:
 
         # Alien settings
         self.align_speed = 1
+        self.fleet_drop_speed = 10
+        self.fleet_direction = 1  # -1 means left, 1 means right
          
